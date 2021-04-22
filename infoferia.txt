@@ -1,0 +1,45 @@
+* commit 4234aa997b1d7d6911e7898c4d358c55cab2aca8 (HEAD -> master, GonzaloCESUR/master)
+| Author: CESUR <antonio@cesur.com>
+| Date:   Thu Apr 22 08:55:07 2021 +0200
+| 
+|     Agrego cosas en comida y los socio
+| 
+* commit e3964398667b395ef1b502ec92c9f2fb1a918801 (Cocina_caseta)
+| Author: CESUR <antonio@cesur.com>
+| Date:   Thu Apr 22 08:38:53 2021 +0200
+| 
+|     Comida.txt
+| 
+* commit de4c6a6be1ec679cdd532abc1a9926998b9d2d19
+| Author: CESUR <antonio@cesur.com>
+| Date:   Thu Apr 22 08:38:00 2021 +0200
+| 
+|     Agrego comida
+| 
+* commit b6add55ec51353315a51ffe514be2dde97b2dd2f
+| Author: CESUR <antonio@cesur.com>
+| Date:   Thu Apr 22 08:36:12 2021 +0200
+| 
+|     Añado los precios
+| 
+* commit 4d693dbef35ca3e401a048a23d025123c5981908
+| Author: CESUR <antonio@cesur.com>
+| Date:   Thu Apr 22 08:35:20 2021 +0200
+| 
+|     Agrego nombres a la lista
+| 
+* commit 35ad6bfcc341bb7c822d218c41bf8a969f3b5d9e
+  Author: CESUR <antonio@cesur.com>
+  Date:   Thu Apr 22 08:34:17 2021 +0200
+  
+      Lista de socios nombres
+4234aa9 HEAD@{0}: commit: Agrego cosas en comida y los socio
+e396439 HEAD@{1}: Branch: renamed refs/heads/master to refs/heads/master
+e396439 HEAD@{3}: merge Cocina_caseta: Fast-forward
+b6add55 HEAD@{4}: checkout: moving from Cocina_caseta to master
+e396439 HEAD@{5}: commit: Comida.txt
+de4c6a6 HEAD@{6}: commit: Agrego comida
+b6add55 HEAD@{7}: checkout: moving from master to Cocina_caseta
+b6add55 HEAD@{8}: commit: Añado los precios
+4d693db HEAD@{9}: commit: Agrego nombres a la lista
+35ad6bf HEAD@{10}: commit (initial): Lista de socios nombres
